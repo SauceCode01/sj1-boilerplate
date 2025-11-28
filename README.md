@@ -22,10 +22,9 @@ This is the **starter code** for the Live Coding session. During the session, we
 1.  Open your terminal (Command Prompt or PowerShell).
 2.  Run the following command:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/geraldsberongoy/sj1-boilerplate.git
     ```
-    *(Replace the URL with the actual link to this repository)*
-
+   
 ## 🏃‍♂️ How do I start?
 
 1.  Open this folder in **VS Code**.
