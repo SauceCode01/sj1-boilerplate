@@ -1,19 +1,17 @@
 # GDG PUP Webverse vol. 1: Frontend Basics - Boilerplate
 
-This is the **starter code** for the Live Coding session.
+## ❓ What is the purpose of this repository?
 
-## 📂 Files
+This is the **starter code** for the Live Coding session. During the session, we will populate these files to build a **Student Portfolio** website featuring:
+-   Sparky Image
+-   Flexbox & Grid Layouts
+
+## 📂 What are these files for?
 
 -   **`index.html`**: Contains the basic HTML structure and font links.
 -   **`styles.css`**: Contains the CSS variables and basic reset.
 
-## 🎯 Goal
-
-During the session, we will populate these files to build a **Student Portfolio** website featuring:
--   Sparky Image
--   Flexbox & Grid Layouts
-
-## 🛠️ Getting the Code
+## 📥 How to get your own copy?
 
 ### Option 1: Download ZIP (Easiest)
 1.  Click the green **Code** button at the top of this page.
@@ -28,7 +26,7 @@ During the session, we will populate these files to build a **Student Portfolio*
     ```
     *(Replace the URL with the actual link to this repository)*
 
-## 🏃‍♂️ How to Start
+## 🏃‍♂️ How do I start?
 
 1.  Open this folder in **VS Code**.
 2.  Right-click `index.html` and select **"Open with Live Server"**.
